@@ -1,0 +1,3 @@
+Pandas for Football Player Value - https://towardsdatascience.com/pandas-for-football-player-value-936c3243bd9a
+
+Introduction to Neural Networks - https://towardsdatascience.com/introduction-to-neural-networks-1d81f471a803
