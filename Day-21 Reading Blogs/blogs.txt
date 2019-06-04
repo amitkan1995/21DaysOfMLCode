@@ -1,0 +1,2 @@
+Parking Occupancy Detection - https://towardsdatascience.com/parking-occupancy-detection-de25cc0966ef
+Code Link Github - https://github.com/visualbuffer/parkingslot
