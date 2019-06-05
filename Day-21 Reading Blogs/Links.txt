@@ -1,0 +1,2 @@
+Guide to Word2Vec - https://skymind.ai/wiki/word2vec
+Prevent Overfitting - https://towardsdatascience.com/dont-overfit-how-to-prevent-overfitting-in-your-deep-learning-models-63274e552323
